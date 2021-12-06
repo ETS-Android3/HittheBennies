@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <ImageButton
         android:id="@+id/button1"
         android:layout_width="115dp"
@@ -16,7 +17,7 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="45dp" />
 
     <ImageButton
@@ -29,7 +30,7 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="45dp" />
 
     <ImageButton
@@ -42,7 +43,7 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteX="258dp"
         tools:layout_editor_absoluteY="45dp" />
 
     <ImageButton
@@ -55,8 +56,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="195dp" />
 
     <ImageButton
         android:id="@+id/button5"
@@ -68,8 +69,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="195dp" />
 
     <ImageButton
         android:id="@+id/button6"
@@ -81,8 +82,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="195dp" />
 
     <ImageButton
         android:id="@+id/button7"
@@ -94,8 +95,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="345dp" />
 
     <ImageButton
         android:id="@+id/button8"
@@ -107,9 +108,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
-
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="345dp" />
 
     <ImageButton
         android:id="@+id/button9"
@@ -121,8 +121,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="345dp" />
 
     <ImageButton
         android:id="@+id/button10"
@@ -134,8 +134,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="495dp" />
 
     <ImageButton
         android:id="@+id/button11"
@@ -147,8 +147,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="495dp" />
 
     <ImageButton
         android:id="@+id/button12"
@@ -160,8 +160,8 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/squirrel_in_hole"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="495dp" />
 
     <TextView
         android:id="@+id/score_id"
