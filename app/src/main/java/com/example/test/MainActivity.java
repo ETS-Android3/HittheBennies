@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity
 
     private CountDownTimer mTimer;
     private TextView score_id;
-    private ImageButton button1;
+    private ImageButton button1, button2, button3, button4, button5, button6,
+                        button7, button8, button9, button10, button11, button12;
     private Menu mMenu;
     private long mTimerLength = 30000;
     int score = 0;
