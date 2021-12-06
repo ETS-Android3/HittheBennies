@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">Catch The Bennies</string>
+    <string name="title_game">Game</string>
+    <string name="title_help">Help</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="help_instructions">Catch as many Bennies as you can!</string>
+    <string name="new_game">New Game</string>
+    <string name="action_help">Help</string>
+    <string name="action_difficulty_help">Difficulty Explained</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_diff">Difficulty</string>
+    <string name="hole">1</string>
+    <!-- Dialog title -->
+    <string name="pick_game_difficulty">Difficulty?</string>
+
+    <!-- Dialog list options -->
+    <string-array name="time_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
 </resources>
